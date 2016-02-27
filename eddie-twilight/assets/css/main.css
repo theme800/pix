@@ -3244,8 +3244,8 @@
 
 /* Header */
 
-	#page-wrapper {
-		padding-top: 3.5em;
+	#main {
+		margin-top: 3.5em;
 	}
 
 	#header {
@@ -3311,10 +3311,6 @@
 					#header nav ul li > ul {
 						display: none;
 					}
-
-	body.landing #page-wrapper {
-		padding-top: 0;
-	}
 
 	body.landing #header {
 		background: transparent;
