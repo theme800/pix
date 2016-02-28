@@ -1,7 +1,7 @@
 /*
-	Lens by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Lens by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 var main = (function($) { var _ = {

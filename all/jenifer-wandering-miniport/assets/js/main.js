@@ -1,7 +1,7 @@
 /*
-	Miniport by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Miniport by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 (function($) {

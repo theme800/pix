@@ -1,7 +1,7 @@
 /*
-	Escape Velocity by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Escape Velocity by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 (function($) {

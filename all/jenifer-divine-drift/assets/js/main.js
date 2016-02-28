@@ -1,7 +1,7 @@
 /*
-	Drift by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Drift by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 (function($) {

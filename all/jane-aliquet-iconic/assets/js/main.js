@@ -1,7 +1,7 @@
 /*
-	Iconic by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Iconic by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 (function($) {

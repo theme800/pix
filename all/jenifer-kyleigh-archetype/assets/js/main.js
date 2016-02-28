@@ -1,7 +1,7 @@
 /*
-	Archetype by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Archetype by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 (function($) {

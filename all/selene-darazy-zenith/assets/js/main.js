@@ -1,7 +1,7 @@
 /*
-	Zenith by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Zenith by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 (function($) {

@@ -1,7 +1,7 @@
 /*
-	Slate by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	Slate by ytiralexip
+	ytiralexip.com @ytiralexip
+	License: ytiralexip.com/license
 */
 
 
